@@ -6,7 +6,7 @@
     <ToolCommandName>razorlight-precompile</ToolCommandName>
     <PackAsTool>true</PackAsTool>
     <PreserveCompilationContext>true</PreserveCompilationContext>
-    <Authors>Mark Kharitonov</Authors>
+    <Authors>atler9865</Authors>
     <LangVersion>latest</LangVersion>
   </PropertyGroup>
 
